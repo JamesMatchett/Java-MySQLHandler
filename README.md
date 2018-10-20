@@ -1,2 +1,2 @@
 # Java-MySQLHandler
-Small Java class to handle an SQL connection as a persistent object
+Small Java class to handle a MySQL connection as a persistent object
